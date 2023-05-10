@@ -1,0 +1,42 @@
+
+enemy shoot
+http://theflyingkeyboard.net/unity/unity-2d-c-follow-gameobject/
+https://www.youtube.com/watch?v=rhoQd6IAtDo&list=PLBIb_auVtBwDgHLhYc-NG633rTbTPim9z&index=1
+https://www.youtube.com/watch?v=_Z1t7MNk0c4
+
+http://theflyingkeyboard.net/unity/unity-2d-c-rotate-gameobject-to-gameobject/
+
+Move to traget
+https://www.youtube.com/watch?v=kOzhE3_P2Mk
+https://www.youtube.com/watch?v=HPI8KHdWwK0
+https://www.youtube.com/channel/UC_p2ZJxGyD95RNumIOAJ0Bg
+
+buttom event
+https://www.youtube.com/watch?v=LziIlLB2Kt4
+
+gallery
+https://www.piskelapp.com/
+
+Save obect to other scene
+https://www.youtube.com/watch?v=F35SgVmmKXA 
+https://www.youtube.com/watch?v=-G71M0ofuTs
+https://www.youtube.com/watch?v=6T-qUOfOYNM
+
+
+art
+https://opengameart.org/content/top-down-tanks-redux
+https://opengameart.org/content/fish-pack-0
+
+
+Animation
+https://www.youtube.com/watch?v=AMluGldLb0M
+
+lighting 
+https://www.youtube.com/watch?v=ic5t2MFiowk 
+
+reset the data 
+https://gamedev.stackexchange.com/questions/127736/playerprefs-dont-work-fine
+
+Ref
+https://www.youtube.com/watch?v=1dsHaw4ydVQ
+https://www.kenney.nl/assets/tower-defense-top-down
